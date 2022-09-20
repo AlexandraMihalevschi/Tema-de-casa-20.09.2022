@@ -1,4 +1,3 @@
-import sys
 a = int(input('Primul numar:'))
 b = int(input('Al doilea numar:'))
 
